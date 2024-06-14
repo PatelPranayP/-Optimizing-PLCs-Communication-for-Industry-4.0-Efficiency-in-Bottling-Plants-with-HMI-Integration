@@ -2,4 +2,4 @@
 
 • Siemens S7 PLC program optimization for conveyor and filling systems in TIA Portal 
 • Establishing OPC UA communication among Siemens S7, Beckhoff, and B&R PLCs for a Bottling Plant
-• Assisting team in HMI design for enhanced user interaction and system control
+• Designed HMI for enhanced user interaction and system control
